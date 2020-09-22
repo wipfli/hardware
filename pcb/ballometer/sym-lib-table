@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ballometer-parts)(type Legacy)(uri ${KIPRJMOD}/ballometer-parts.lib)(options "")(descr ""))
+)
