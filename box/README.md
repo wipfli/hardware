@@ -5,4 +5,5 @@ This folder contains the Autodesk Inventor files used to make the 3d printed enc
 ## Changelog
 
 * ```box-rev-1``` First 3d printed box for the ballometer.
+* ```box-rev-2``` Increase height of power bank holder. Add slit for USB power cable. Increase access to SD card. Add honeycomb venting holes. Add missing chamfer. Add logo. 
 
