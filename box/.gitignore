@@ -2,6 +2,7 @@
 *.iam
 *.lck
 *.zip
+*.svg
 OldVersions
 kicad
 Werkstatt
