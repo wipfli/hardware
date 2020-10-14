@@ -8,3 +8,4 @@ This folder contains the Autodesk Inventor files used to make the 3d printed enc
 * ```box-rev-2``` Increase height of power bank holder. Add slit for USB power cable. Increase access to SD card. Add honeycomb venting holes. Add missing chamfer. Add logo. 
 * ```box-rev-3``` Elongate alingment rail and increase number of venting holes. Split up into individual .stl files.
 * ```box-rev-4``` Use M3 screws instead of M2.
+* ```box-rev-5``` Increase wall thickness to 3 mm. Add print supports in velcro slits. Give more access to SD card.
