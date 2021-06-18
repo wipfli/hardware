@@ -1,0 +1,3 @@
+name, description, supplier, price, currency, link
+BMP 280, pressure sensor breakout board, aliexpress, 0.73, USD, https://www.aliexpress.com/item/32654011852.html
+LSM303, magnetic field and acceleration sensor breakout board, aliexpress, 2.01, USD, https://www.aliexpress.com/item/4000046625980.html
