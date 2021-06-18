@@ -1,3 +1,16 @@
 name, description, supplier, price, currency, link
 BMP 280, pressure sensor breakout board, aliexpress, 0.73, USD, https://www.aliexpress.com/item/32654011852.html
 LSM303, magnetic field and acceleration sensor breakout board, aliexpress, 2.01, USD, https://www.aliexpress.com/item/4000046625980.html
+SHT 31, temperature sensor breakout board, aliexpress, 3.48, USD, https://www.aliexpress.com/item/32850554676.html
+TSL2591, light sensor breakout board, aliexpress, 4.67, USD, https://www.aliexpress.com/item/33011080668.html
+USB microphone, microphone, aliexpress, 2.14, USD, https://www.aliexpress.com/item/32973953613.html
+GPS, ublox GPS NEO-6M with antenna, aliexpress, 4.74, USD, https://www.aliexpress.com/item/4000070604981.html
+RPi, Raspberry Pi Model 3B+, Conrad, 43.95, CHF, https://www.conrad.ch/de/p/raspberry-pi-3-b-1-gb-4-x-1-4-ghz-raspberry-pi-1668026.html
+Power Bank, Intenso Power Bank 10000 mAh, digitec, 27.8, CHF, https://www.digitec.ch/de/s1/product/intenso-power-bank-10000mah-powerbank-8396271
+Box, 3d printed box, makerspace, 4.15, CHF, https://sph.ethz.ch
+LCD, display 16x2 blue with controller, aliexpress, 1.54, CHF, https://www.aliexpress.com/item/33003558783.html
+Buttons, tactile buttons 6 mm x 6 mm x 5 mm, aliexpress, 0.0086, USD, https://www.aliexpress.com/item/32858344336.html
+Level Shifter, logic level shifter 3V to 5V, aliexpress, 0.15, USD, https://www.aliexpress.com/item/1972789887.html
+SD card, 128 GB sandisk ultra microSD A1, aliexpress, 16.0, USD, https://www.aliexpress.com/item/4000545318985.html
+PCB, custom pcb for sensors and buttons, jlcpcb, 1.54, USD, https://jlcpcb.com
+Total,,,113, CHF,
